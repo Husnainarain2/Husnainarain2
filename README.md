@@ -22,7 +22,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Husnainarain2&theme=dark)
 
 
-<!-- Extra Cards -->![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Husnainarain2&theme=github-dark)
 
 
