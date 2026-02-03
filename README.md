@@ -1,49 +1,18 @@
-# Hi, I'm Husnain Abid 👋
+# Hi, I'm Husnain Abid 👋# 💫 About Me:
+👋 Hi! I’m a Computer Science student <br>💻 passionate about Java development ☕. <br>I enjoy building projects that solve real-world problems 🌍<br> and continuously improving my programming skills 🚀.<br> Always excited to learn and grow as a Java developer!
 
-## About Me
-I am a Computer Science student with a strong interest in Java development.  
-I focus on writing clean, structured code and building practical projects while continuously improving my problem-solving skills.
 
-Currently, I am learning backend development with Java and exploring frontend fundamentals to become a well-rounded developer.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Husnain Abid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/husnain_arain_6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/husnain-abid-6b24163a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:husnainabid9494@Gmail.com) 
 
----
-
-## Skills
-- Java (Core Java, OOP)
-- Data Structures & Algorithms (Basics)
-- HTML, CSS, JavaScript
-- Git & GitHub
-- IntelliJ IDEA
-- vsCode
----
-
-## Currently Learning
-- Spring Boot
-- Advanced Java concepts
-- JavaScript for frontend development
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Husnainarain2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Husnainarain2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Husnainarain2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Husnainarain2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Projects
-Here are some projects I have worked on:
-- Java practice projects focused on OOP concepts
-- JavaScript mini projects (logic-based)
-- HTML & CSS static web pages
-
-👉 Check my repositories to see my work.
-
----
-
-## Goals
-- Become a professional Java Developer
-- Build real-world backend applications
-- Improve problem-solving and software design skills
-
----
-
-## Contact
-- GitHub: https://github.com/Husnainarain2
-- LinkedIn: https://www.linkedin.com/in/husnain-abid-6b24163a2/
-- Email: husnainabid9494@Gmail.com
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
