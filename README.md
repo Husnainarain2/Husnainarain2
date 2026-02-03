@@ -10,16 +10,21 @@
 # 📊 GitHub Stats
 
 <!-- Main GitHub stats -->
-![Husnain’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Husnainarain2&show_icons=true&theme=radical&count_private=true&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Husnainarain2&show_icons=true&theme=dark)
+
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Husnainarain2&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Husnainarain2&layout=compact&theme=dark)
+
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Husnainarain2&theme=radical)
 
-<!-- Extra Cards -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Husnainarain2&theme=react-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Husnainarain2&theme=dark)
+
+
+<!-- Extra Cards -->![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Husnainarain2&theme=github-dark)
+
 
 
 
