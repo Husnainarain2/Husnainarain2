@@ -1,5 +1,6 @@
-# Hi, I'm Husnain Abid 👋# 💫 About Me:
-👋 Hi! I’m a Computer Science student <br>💻 passionate about Java development ☕. <br>I enjoy building projects that solve real-world problems 🌍<br> and continuously improving my programming skills 🚀.<br> Always excited to learn and grow as a Java developer!
+# Hi, I'm Husnain Abid 👋
+# 💫 About Me:
+I’m a Computer Science student <br>💻 passionate about Java development ☕. <br>I enjoy building projects that solve real-world problems 🌍<br> and continuously improving my programming skills 🚀.<br> Always excited to learn and grow as a Java developer!
 
 
 ## 🌐 Socials:
